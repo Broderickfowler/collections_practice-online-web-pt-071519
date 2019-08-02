@@ -40,4 +40,5 @@ def sum_array(array)
     sum += n
     #(sum) = {|sum,n| sum + n}
   end
+  sum
 end
