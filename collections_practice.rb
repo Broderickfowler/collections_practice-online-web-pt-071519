@@ -34,3 +34,6 @@ def find_a(array)
     letter.start_with?("a")
   end
 end
+
+def sum_array(array)
+  
